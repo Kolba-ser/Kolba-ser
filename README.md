@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasily</h1>
 <h3 align="center">Unity Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolba-ser&label=Profile%20views&color=0e75b6&style=flat" alt="niek352" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolba-ser&label=Profile_views&color=201D3C&style=for-the-badge" alt="niek352" /> </p>
 
 
 
