@@ -72,11 +72,18 @@
 <a href="" target="_blank">
     <img src="https://img.shields.io/badge/VContainer-201D3C?style=for-the-badge&logo" target="_blank" />
 </a>
-
 <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Addresables-201D3C?style=for-the-badge&logo" target="_blank" />
 </a>
-
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LitMotion-201D3C?style=for-the-badge&logo" target="_blank" />
+</a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/DoTween-201D3C?style=for-the-badge&logo" target="_blank" />
+</a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LucidAudio-201D3C?style=for-the-badge&logo" target="_blank" />
+</a>
 </div>
 
 <hr/>
