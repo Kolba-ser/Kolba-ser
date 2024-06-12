@@ -5,8 +5,8 @@
 </h1>
 
 
+<h2 align="center"> Games I Worked On </h2>
 <br/>
-<h2 align="center"> ✨ Games I Worked On ✨ </h2>
 
 <div align="center"> 
 
@@ -31,8 +31,10 @@
   </a>
 
 </div>
+<hr/>
  
-<h2 align="center"> 📫 Connect with me: 📫</h2>
+<h2 align="center">Connect with me:</h2>
+<br/>
 
 
 <div align="center"> 
@@ -45,7 +47,7 @@
 
  <hr/>
  
-<h2 align="center"> ⚒️ Languages-Tools ⚒️ </h2>
+<h2 align="center">Languages-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,photoshop,blender,firebase,mysql,git" />
@@ -88,7 +90,7 @@
 
 <hr/>
 
-<h2 align="center"> ⚡ Stats ⚡ </h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kolba-ser&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
